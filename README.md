@@ -45,9 +45,8 @@ To run Chatify locally, use the following command:
 ```bash
 npm start
 
-<h1>Visit http://localhost:3000 in your web browser to access the application.</h1>
+Visit http://localhost:3000 in your web browser to access the application.
 
-<h3>
 Technologies Used
 Node.js
 Express.js
@@ -66,4 +65,4 @@ Push to the branch: git push origin feature-name
 Submit a pull request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-</h3>
+
