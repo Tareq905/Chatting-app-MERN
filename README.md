@@ -1,4 +1,4 @@
-<h1 align="center">Chattinga app with MERN</h1>
+<h1 align="center">Chatting app with MERN</h1>
 
 
 <p align="center">
