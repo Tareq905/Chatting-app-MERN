@@ -29,9 +29,6 @@
 - Message history
 - Responsive design
 
-## Demo
-
-Check out the [live demo](https://your-website.com) to see Chatify in action.
 
 ## Installation
 
